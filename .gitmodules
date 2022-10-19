@@ -1,0 +1,3 @@
+[submodule "sm_1"]
+	path = sm_1
+	url = git@github.com:sidtri/sm_1.git
